@@ -7,4 +7,4 @@
 * plots_generation_1.R - first part of code used to generate plots
 * plots_generation_2.R - second part of code used to generate plots
 
-Multiple plots were excluded from the report and poster because of no informational value
+Multiple plots were excluded from the report and poster because of their lack of informational value.
